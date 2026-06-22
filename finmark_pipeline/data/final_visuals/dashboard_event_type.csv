@@ -1,0 +1,9 @@
+event_type,event_count,unique_users,total_amount
+login,276,200,201875.52
+checkout,260,190,188514.24
+wishlist_add,260,196,224949.47
+profile_update,255,190,218347.13999999998
+add_to_cart,252,178,194323.36
+search,251,184,187909.92
+page_view,233,172,200931.77
+logout,213,167,156549.95
