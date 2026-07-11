@@ -1,9 +1,0 @@
-event_type,event_type_key
-add_to_cart,1
-checkout,2
-login,3
-logout,4
-page_view,5
-profile_update,6
-search,7
-wishlist_add,8
